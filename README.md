@@ -77,8 +77,10 @@ To install and run this client-side React app locally, follow these steps:
 
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
-- Email: [![Email](https://i.ibb.co/GVD8Y0c/icons8-email-64.png)](mailto:nikkitasnp@gmail.com)
-- LinkedIn:[![LinkedIn](https://i.ibb.co/hKxw1yx/icons8-linkedin-50.png)](https://www.linkedin.com/in/nikita-6254b9214)
+Email: 
+[![Email](https://i.ibb.co/GVD8Y0c/icons8-email-64.png)](mailto:nikkitasnp@gmail.com)
+LinkedIn:
+[![LinkedIn](https://i.ibb.co/hKxw1yx/icons8-linkedin-50.png)](https://www.linkedin.com/in/nikita-6254b9214)
 
 
 
